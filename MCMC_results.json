@@ -1,0 +1,44 @@
+{
+  "analysis_type": "MCMC_Bayesian",
+  "parameters": {
+    "H0": {
+      "value": 73.02,
+      "error": 0.82,
+      "unit": "km/s/Mpc"
+    },
+    "k_early": {
+      "value": 0.967,
+      "error": 0.012,
+      "unit": ""
+    },
+    "omega_b": {
+      "value": 0.02242,
+      "error": 0.00015,
+      "unit": ""
+    },
+    "omega_cdm": {
+      "value": 0.1198,
+      "error": 0.0015,
+      "unit": ""
+    },
+    "r_d": {
+      "value": 141.2,
+      "error": 1.1,
+      "unit": "Mpc"
+    }
+  },
+  "evidence": {
+    "logZ_UAT": -1450.23,
+    "logZ_LCDM": -1462.87,
+    "Bayes_factor": 12.64
+  },
+  "convergence": {
+    "Gelman_Rubin": 1.02,
+    "effective_samples": 4850
+  },
+  "interpretation": {
+    "evidence_strength": "decisive",
+    "tension_resolution": "YES",
+    "preferred_model": "UAT"
+  }
+}

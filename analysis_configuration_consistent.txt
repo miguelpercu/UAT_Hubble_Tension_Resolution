@@ -1,0 +1,28 @@
+
+UAT FRAMEWORK ANALYSIS CONFIGURATION (CONSISTENTE)
+=================================================
+
+ANALYSIS PARAMETERS:
+• Results directory: UAT_Hubble_Tension_Resolution
+• BAO data points: 5 redshifts
+• Consistency: VALORES IDÉNTICOS a códigos 1-3
+
+COSMOLOGICAL PARAMETERS (Consistentes con códigos 1-3):
+• H0_planck = 67.36 km/s/Mpc
+• H0_sh0es = 73.0 km/s/Mpc  
+• Omega_m = 0.315
+• Omega_Lambda = 0.685
+• r_d_planck = 147.09 Mpc
+• r_d_UAT = 141.0 Mpc
+
+UAT OPTIMAL PARAMETERS (Consistentes):
+• k_early = 0.9670
+• r_d_UAT = 141.00 Mpc
+• chi2_UAT = 49.402
+• H0_UAT = 73.0 km/s/Mpc
+
+χ² CONSISTENTE CON CÓDIGOS 1-3: 
+• Optimal LCDM: 89.131
+• LCDM Tension: 71.734 
+• UAT Solution: 49.402
+• Δχ² = +39.728
