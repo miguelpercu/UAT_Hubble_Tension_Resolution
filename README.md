@@ -10,14 +10,14 @@ El Marco del Tiempo Aplicable Unificado (UAT): Una
 sentamos el marco del Tiempo Aplicable Unificado (UAT), cuya genesis se en
 cuentra en la necesidad de integrar efectos cuanticos gravitacionales, especıficamente
  los derivados de la Gravedad Cuantica de Lazos (LQG), en la dinamica cosmologica.
- El modelo UAT introduce el par´ametro fundamental kearly, que modifica la tasa de
+ El modelo UAT introduce el parametro fundamental kearly, que modifica la tasa de
  expansi´on del Universo primitivo, logrando una reduccion del horizonte de sonido
  (rd). Nuestro analisis bayesiano MCMC exhaustivo, combinado con datos de CMB
  (Planck), BAO (BOSS/eBOSS) y SNe Ia, arroja una constante de Hubble resuelta
  de H0 =73.02±0.82 km/s/Mpc. Este resultado es consistente con las mediciones
  locales y se valida con una Evidencia Bayesiana Decisiva (lnB01 = 12.64) a
  favor de UAT sobre el modelo ΛCDM est´andar, junto con una mejora estad´ıstica
- notable (∆χ2 = +40.389). UAT proporciona un mecanismo f´ısicamente motivado,
+ notable (∆χ2 = +40.389). UAT proporciona un mecanismo fısicamente motivado,
  robusto y reproducible para conciliar el conflicto de H0.
  Tension de Hubble; Gravedad Cuantica de Lazos; Horizonte de Sonido; UAT
  1 Introduccion: La Crisis del ΛCDM y la Visi´on del
@@ -30,9 +30,10 @@ sionante. Sin embargo, se enfrenta a una crisis significativa: la Tension del Hu
  del Universo tardıo (e.g., SH0ES, H0 ≈ 73.0 km/s/Mpc). Esta discrepancia no es trivial
  y requiere, muy probablemente, de Nueva Fısica que altere la dinamica cosmica antes
  del desacoplamiento de los fotones.
- ∗Especialista en Rayos X y Campos. Correo electr´onico: miguel percudani@yahoo.com.ar
- 1
-1.2 Genesis del Concepto UAT: Una Perspectiva Atıpica
+ ∗Especialista en Rayos X y Campos. Correo electr´onico: miguel_percudani@yahoo.com.ar
+ 
+ 
+ Genesis del Concepto UAT: Una Perspectiva Atıpica
  La formulacion del Tiempo Aplicable Unificado (UAT) no surgio inicialmente de un in
 tento directo por resolver la Tension de Hubble, sino de una investigacion mas fundamental
  sobre la naturaleza del tiempo y las escalas. El concepto central de tapplied, previamente
@@ -47,8 +48,8 @@ tivo para validar esta ”simple idea” que, con el tiempo, se habıa tornado e
  teorico capaz de abordar la mayor anomalıa de la cosmologıa moderna. El UAT, por su
  diseno, estaba listo para implementar las correcciones cu´anticas requeridas para alterar el
  Horizonte de Sonido (rd).
- 2 ElMarcoUAT:DeLQGalaEcuaci´onFenomenologica
- 2.1 Base Teorica: Correcciones de la Gravedad Cuantica de La
+  ElMarcoUAT:DeLQGalaEcuaci´onFenomenologica
+ Base Teorica: Correcciones de la Gravedad Cuantica de La
 zos (LQG)
  El UAT postula que los efectos de la Gravedad Cu´antica de Lazos (LQG) son ob
 servables en la dinamica del Universo primitivo. LQG, al cuantificar el espacio-tiempo,
