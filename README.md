@@ -1,11 +1,11 @@
-El Marco del Tiempo Aplicable Unificado (UAT): Una
- Soluci´on Robusta de la Gravedad Cu´antica a la
- Tensi´on del Hubble
- Miguel ´ Angel Percudani∗
+El Marco del Tiempo Aplicable Unificado (UAT): Un nuevo paradigma
+ Solucion Robusta de la Gravedad Cuantica a la
+ Tension del Hubble
+ Miguel  Angel Percudani∗
  Puan, Buenos Aires, Argentina
  Octubre 2025
  Abstract
- La tensi´on de Hubble (∼ 8.4% de discrepancia entre mediciones del Universo
+ La tension de Hubble (∼ 8.4% de discrepancia entre mediciones del Universo
  temprano y tardıo de H0) es el desafıo mas urgente de la cosmologıa moderna. Pre
 sentamos el marco del Tiempo Aplicable Unificado (UAT), cuya genesis se en
 cuentra en la necesidad de integrar efectos cuanticos gravitacionales, especıficamente
@@ -43,15 +43,15 @@ tento directo por resolver la Tension de Hubble, sino de una investigacion mas f
  rayos X, permitio cuestionar los marcos temporales tradicionales y desarrollar una metrica
  operativa para los fenomenos dinamicos en regımenes extremos (e.g., agujeros negros pri
 mordiales).
- La Tension H0 se revel´ posteriormente como el laboratorio observacional defini
+ La Tension H0 se revela posteriormente como el laboratorio observacional defini
 tivo para validar esta ”simple idea” que, con el tiempo, se habıa tornado en un marco
  teorico capaz de abordar la mayor anomalıa de la cosmologıa moderna. El UAT, por su
- diseno, estaba listo para implementar las correcciones cu´anticas requeridas para alterar el
+ diseno, estaba listo para implementar las correcciones cuanticas requeridas para alterar el
  Horizonte de Sonido (rd).
-  ElMarcoUAT:DeLQGalaEcuaci´onFenomenologica
+  El Marco UAT:De LQG a la Ecuacion Fenomenologica
  Base Teorica: Correcciones de la Gravedad Cuantica de La
 zos (LQG)
- El UAT postula que los efectos de la Gravedad Cu´antica de Lazos (LQG) son ob
+ El UAT postula que los efectos de la Gravedad Cuantica de Lazos (LQG) son ob
 servables en la dinamica del Universo primitivo. LQG, al cuantificar el espacio-tiempo,
  introduce correcciones al lımite de Planck que se manifiestan como una modificacion a la
  tasa de expansion en el regimen de alta densidad, donde la densidad de energıa domina.
@@ -78,7 +78,7 @@ este conflicto atacando la raız del problema en el Universo temprano: la longit
  El horizonte de sonido (rd) es la distancia que puede recorrer una onda de sonido en el
  plasma primordial antes de la recombinacion. Es la ”regla de medir” del CMB:∞rUATd=zdcHUAT(z,kearly) · a(z) dz
  (2)
- Dado que kearly < 1 (espec´ıficamente kearly ≈ 0.970), la densidad efectiva total en el
+ Dado que kearly < 1 (especıficamente kearly ≈ 0.970), la densidad efectiva total en el
  Universo primitivo (z ≫ 1000) es menor que en ΛCDM. Una menor densidad efectiva
  implica una tasa de expansion H(z) mas lenta en ese regimen. Al ser el integrando
  de la ecuacion de rd mas pequeno, el resultado es una reduccion de la longitud total
@@ -87,10 +87,10 @@ este conflicto atacando la raız del problema en el Universo temprano: la longit
  La consistencia con el CMB requiere que la escala angular θ∗ sea la misma que la
  observada por Planck:θ∗UAT = θ∗ΛCDM =⇒ rUATdDUATM (zls) = rΛCDMdDΛCDMM (zls)
  Al reducir rd (denominador de la izquierda), UAT permite un valor mayor de la
- distancia com´ovil al desacoplamiento DM(zls). Dado que DM(z) ∝ 1/H0, esto implica
+ distancia comovil al desacoplamiento DM(zls). Dado que DM(z) ∝ 1/H0, esto implica
  que H0 debe ser mayor para que la ecuacion se cumpla.
  El UAT logra la reduccion requerida en el horizonte de sonido de 147.09 Mpc (Planck
- ΛCDM) a rd =141.75±1.1 Mpc, lo que representa una reducci´on de aproximadamente
+ ΛCDM) a rd =141.75±1.1 Mpc, lo que representa una reduccion de aproximadamente
  3.6%.
  4 Validacion Observacional y Resultados Estadısticos
  4.1 Analisis MCMC Bayesiano
@@ -104,7 +104,7 @@ este conflicto atacando la raız del problema en el Universo temprano: la longit
  de UAT:
  3
 Table 1: Comparativa de Parametros y Ajuste (χ2) entre ΛCDM y UAT
- Par´ametro/M´etrica ΛCDM (Planck) ΛCDM (Tensi´on H0) UAT (Soluci´on ´ Optima)
+ Par´ametro/M´etrica ΛCDM (Planck) ΛCDM (Tensi´on H0) UAT (Solucion Optima)
  H0 [km/s/Mpc]
  67.36 ± 0.54
  rd [Mpc]
@@ -127,12 +127,12 @@ Table 1: Comparativa de Parametros y Ajuste (χ2) entre ΛCDM y UAT
  ∼71.00
  ∼58.753
  48.471
- • Tensi´on Resuelta: El valor de H0 se fija en 73.02±0.82 km/s/Mpc, alineandose
+ • Tension Resuelta: El valor de H0 se fija en 73.02±0.82 km/s/Mpc, alineandose
  con las mediciones locales del Universo tardıo.
- • Mejora Estad´ıstica: El ajuste global de UAT es estadısticamente superior al
+ • Mejora Estadıstica: El ajuste global de UAT es estadısticamente superior al
  ΛCDM optimo, con una mejora en el *Goodness of Fit* de ∆χ2 = +40.389.
  4.3 Evidencia Bayesiana Decisiva
- La comparaci´on de modelos se confirmo mediante el calculo de la Evidencia Bayesiana
+ La comparacion de modelos se confirmo mediante el calculo de la Evidencia Bayesiana
  (ln B01), que es la metrica estandar para determinar cu´al modelo es inherentemente
  preferido por los datos.
  ln B01 = ln ZUAT
@@ -144,11 +144,11 @@ Table 1: Comparativa de Parametros y Ajuste (χ2) entre ΛCDM y UAT
  preferido por los datos cosmol´ogicos actuales.
  5 Discusi´on y Perspectivas Futuras
  5.1 Consistencia y Discrepancias Localizadas (DESI BAO)
- El ´exito global del UAT es irrefutable, pero el an´alisis revel´o discrepancias localizadas
+ El exito global del UAT es irrefutable, pero el analisis revelo discrepancias localizadas
  con puntos de datos BAO especıficos del experimento DESI en el rango de z = 1.23−1.75.
  Es importante senalar que estas discrepancias no invalidan el resultado global, sino que
- proporcionan informaci´on valiosa para el refinamiento futuro del modelo. La prioridad en
- el UAT es la Consistencia F´ısica Global y la Significaci´on Estad´ıstica (Evidencia
+ proporcionan informacion valiosa para el refinamiento futuro del modelo. La prioridad en
+ el UAT es la Consistencia Fısica Global y la Significacion Estadıstica (Evidencia
  Bayesiana), las cuales superan con creces estos desajustes locales.
  5.2 Implicaciones para la Gravedad Cuantica
  La magnitud del parametro kearly ≈ 0.970 sugiere que los efectos de la gravedad cuantica
@@ -166,13 +166,13 @@ mostrando que una alteraci´on sutil pero f´ısicamente motivada de la din´ami
 mologica, sino que tambien establece un vınculo observacional directo entre la cosmolog´ıa
  de precision y la fısica fundamental de la gravedad cu´antica.
  Disponibilidad de Datos
- El codigo completo, los datos utilizados para el an´alisis χ2 y los scripts MCMC son publicos
+ El codigo completo, los datos utilizados para el analisis χ2 y los scripts MCMC son publicos
  y estan disponibles en el repositorio de GitHub: https://github.com/miguelpercu/
  Ultimo_Analisis_de_UAT_14_10_25
  Agradecimientos
- El autor agradece el uso de recursos computacionales para el an´alisis MCMC y a la co
+ El autor agradece el uso de recursos computacionales para el analisis MCMC y a la co
 munidad cosmologica por hacer publicos los datos observacionales. Se agradece especial
-mente a la intuici´on inicial que, desde la formacion en campos, me guio hacia la comprension
+mente a la intuicion inicial que, desde la formacion en campos, me guio hacia la comprension
  fundamental de las escalas temporales aplicables.
  References
  A Justificacion Teorica del Parametro kearly
@@ -189,7 +189,7 @@ mente a la intuici´on inicial que, desde la formacion en campos, me guio hacia 
  de multiplicar solo Ωr y Ωm se justifica porque los efectos de la gravedad cu´antica son
  significativos solo en el r´egimen de alta densidad, mientras que ΩΛ (energ´ıa de vac´ıo) es
  constante y dominante solo en el r´egimen de baja densidad (z → 0).
- B An´alisis Detallado de Discrepancias Locales (DESI
+ B Analisis Detallado de Discrepancias Locales (DESI
  BAO)
  Apesar de la robustez global (∆χ2 = +40.389), se encontraron residuos significativos
  con puntos de datos de DESI BAO en z ≈ 1.23,1.48, y 1.75. Estos desajustes se atribuyen
